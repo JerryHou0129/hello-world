@@ -16,6 +16,8 @@ $ git add readme.txt                add the file to git
 $ git commit -m "create a git project"
 
 $ git remote add origin https://github.com/JerryHou0129/hello-world 
+
 $ git remote set-url origin https://github.com/JerryHou0129/hello-world.git
+
 $ git pull --rebase origin master
 $ git push origin master
